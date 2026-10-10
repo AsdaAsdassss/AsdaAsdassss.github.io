@@ -1,0 +1,21 @@
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+}
+.poems {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 9px;
+	color: #FFFFCC;
+	text-align: center;
+	font-weight: bold;
+
+}
